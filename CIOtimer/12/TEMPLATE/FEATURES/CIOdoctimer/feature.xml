@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature  Id="f2ea2884-7374-4d5a-9282-c3eeefe65e7e"
+          Title="CIOdoctimer"
+          Description="Description for CIOdoctimer"
+          Version="12.0.0.0"
+          Hidden="FALSE"
+          Scope="Site"
+          DefaultResourceFile="core"
+          ReceiverAssembly="CIOtimer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=28b1577011e1dfec"
+          ReceiverClass="CIOtimer.CIOdoctimer"
+          xmlns="http://schemas.microsoft.com/sharepoint/">
+
+</Feature>
